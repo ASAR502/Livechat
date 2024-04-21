@@ -36,7 +36,7 @@ const App = () => {
   };
 
   useEffect(() => {
-    // In the context of Socket.IO, the connect event is one of the built-in events that
+    // I`n the context of Socket.IO, the connect event is one of the built-in events that
     // the client emits during the lifecycle of the WebSocket connection. Other
     //  built-in events in Socket.IO include disconnect, reconnect, reconnect_attempt, and more.
 
